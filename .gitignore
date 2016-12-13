@@ -38,4 +38,6 @@ Thumbs.db
 .md
 .1
 
-add/
+# OS generated files #
+######################
+node_modules
