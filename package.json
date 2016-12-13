@@ -1,0 +1,26 @@
+{
+  "name": "dark03",
+  "version": "1.1.1",
+  "description": "subukan lang",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "runt ut"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yonasmohammad/dark03.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonasmohammad/dark03/issues"
+  },
+  "homepage": "https://github.com/yonasmohammad/dark03",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.0.0"
+  }
+}
